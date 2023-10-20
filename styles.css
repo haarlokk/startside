@@ -13,7 +13,7 @@ html, body {
   height: 70px;
   grid-column-start: 1;
   grid-column-end: 7;
-  padding: 5px;
+  padding: 2px;
 }
 .grid {
   color: #891e8d;
