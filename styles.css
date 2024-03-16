@@ -1,7 +1,7 @@
 html, body {
   margin: 0;
   height: 100%;
-  background-image: linear-gradient(red, black);
+  background-image: linear-gradient(#ff0000, black);
 }
 .grid-container {
   display: grid;
@@ -9,20 +9,21 @@ html, body {
   grid-template-rows: repeat(6, auto);
 }
 .header {
-  background-color: #000000;
+  background-color: #e61010;
   height: 70px;
   grid-column-start: 1;
   grid-column-end: 7;
   padding: 2px;
+  margin-bottom: 26px;
 }
 .grid {
-  color: #891e8d;
+  color: #ff0000;
   font-family: sans-serif;
-  border: 2px solid #c5e3af;
+  border: 1px solid #ffffff;
   margin: 0.6em;
   padding: 5px;
-  height: 356px;
-  background-color: ff0000;
+  height: 340px;
+  background-color: #000000;
 }
 .grid ul li {
   list-style-type: none;
@@ -45,7 +46,7 @@ html, body {
   border-radius: 0.40rem;
 }
 .footer {
-  background-color: #240325;
+  background-color: #000000;
   grid-column-start: 1;
   grid-column-end: 7;
   padding: 6px;
