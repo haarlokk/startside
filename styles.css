@@ -38,7 +38,7 @@ h3 {
   list-style-type: none;
 }
 .item1, .item2, .item3, .item4, .item5, .item7 {
-  margin-top: 2px;
+  margin-top: 10px;
   border-radius: 0.40rem;
 }
 .item1, .item6 {
