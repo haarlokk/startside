@@ -17,15 +17,15 @@ html, body {
   grid-column-start: 1;
   grid-column-end: 7;
   padding: 2px;
-  margin-bottom: 26px;
+  margin-bottom: 16px;
 }
 .grid {
   color: #ff0000;
   font-family: sans-serif;
   border: 1px solid #ffffff;
-  margin: 0.6em;
-  padding: 5px;
-  height: 340px;
+  margin: 0.7em;
+  padding: 2px;
+  height: 350px;
   background-image: linear-gradient(#000000, #240101);
 }
 h3 {
@@ -42,7 +42,7 @@ h3 {
   border-radius: 0.40rem;
 }
 .item1, .item6 {
-  margin-left: 20px;
+  margin-left: 10px;
 }
 .item5, .item10 {
   margin-right: 10px;
